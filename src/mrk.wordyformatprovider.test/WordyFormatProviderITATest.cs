@@ -30,7 +30,6 @@ namespace mrk.wordyformatprovider.test
         }
 
 
-        // NOT SUPPORTED YET
         [TestMethod]
         public void NumberIsConvertedCorrectly_4()
         {
@@ -39,6 +38,7 @@ namespace mrk.wordyformatprovider.test
             Assert.AreEqual("zero", s);
         }
 
+        // NOT SUPPORTED YET
         //[TestMethod]
         //public void NumberIsConvertedCorrectly_5()
         //{
