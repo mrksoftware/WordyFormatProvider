@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mrk.wordyformatprovider", "mrk.wordyformatprovider\mrk.wordyformatprovider.csproj", "{EEEC32D5-25CE-47AB-8A50-2E3AAE8F3F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mrk.wordyformatprovider.test", "mrk.wordyformatprovider.test\mrk.wordyformatprovider.test.csproj", "{3AB64E01-9828-4340-91F3-D07967D88012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEEC32D5-25CE-47AB-8A50-2E3AAE8F3F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEEC32D5-25CE-47AB-8A50-2E3AAE8F3F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEEC32D5-25CE-47AB-8A50-2E3AAE8F3F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEEC32D5-25CE-47AB-8A50-2E3AAE8F3F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB64E01-9828-4340-91F3-D07967D88012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB64E01-9828-4340-91F3-D07967D88012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB64E01-9828-4340-91F3-D07967D88012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB64E01-9828-4340-91F3-D07967D88012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CEA7F3CE-7AFB-4F16-A71B-3F7891B928A4}
+	EndGlobalSection
+EndGlobal

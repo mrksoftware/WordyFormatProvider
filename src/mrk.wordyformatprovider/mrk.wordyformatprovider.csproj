@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;net452</TargetFrameworks>
+    <Version>0.0.2</Version>
+    <Authors>mrksoftware</Authors>
+    <Description>Converts number in word representation (supported language: ITA)
+Copied from http://gianluigi.sellitto.it/2017/04/scrivere-numeri-in-lettere-in-c/</Description>
+    <PackageTags>numeri,lettere,numbers,letters</PackageTags>
+    <PackageReleaseNotes>0.0.1
+Initial release
+
+0.0.2
+Addes upport for NET FW 4.5.2</PackageReleaseNotes>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseUrl>https://github.com/mrksoftware/mrk.wordyformatprovider/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/mrksoftware/mrk.wordyformatprovider</PackageProjectUrl>
+    <Copyright>mrksoftware</Copyright>
+  </PropertyGroup>
+
+</Project>
